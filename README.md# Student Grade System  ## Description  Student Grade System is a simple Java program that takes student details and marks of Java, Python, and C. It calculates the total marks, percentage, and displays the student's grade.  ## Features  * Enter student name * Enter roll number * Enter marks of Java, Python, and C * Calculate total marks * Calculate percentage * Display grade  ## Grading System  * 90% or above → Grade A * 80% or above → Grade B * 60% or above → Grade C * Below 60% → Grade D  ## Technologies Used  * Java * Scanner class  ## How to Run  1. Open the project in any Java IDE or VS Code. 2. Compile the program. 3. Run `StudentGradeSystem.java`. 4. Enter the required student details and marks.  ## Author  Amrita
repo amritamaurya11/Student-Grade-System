@@ -1,0 +1,37 @@
+# Student Grade System
+
+## Description
+
+Student Grade System is a simple Java program that takes student details and marks of Java, Python, and C. It calculates the total marks, percentage, and displays the student's grade.
+
+## Features
+
+* Enter student name
+* Enter roll number
+* Enter marks of Java, Python, and C
+* Calculate total marks
+* Calculate percentage
+* Display grade
+
+## Grading System
+
+* 90% or above → Grade A
+* 80% or above → Grade B
+* 60% or above → Grade C
+* Below 60% → Grade D
+
+## Technologies Used
+
+* Java
+* Scanner class
+
+## How to Run
+
+1. Open the project in any Java IDE or VS Code.
+2. Compile the program.
+3. Run `StudentGradeSystem.java`.
+4. Enter the required student details and marks.
+
+## Author
+
+Amrita
